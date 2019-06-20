@@ -1,0 +1,35 @@
+[
+	{
+		"id": "planit",
+		"title": "PlanIT: Planning and Instantiating Indoor Scenes with Relation Graph and Spatial Prior Networks",
+		"authors": ["Kai Wang", "Yu-an Lin", "Ben Weissmann", "Manolis Savva", "Angel X. Chang", "Daniel Ritchie"],
+		"venue": "SIGGRAPH 2019",
+		"date": "2019-07-31",
+		"links" : [
+		        {"type": "pdf"}
+		]
+	},
+
+	{
+		"id": "fastsynth",
+		"title": "Fast and Flexible Indoor Scene Synthesis via Deep Convolutional Generative Models",
+		"authors": ["Daniel Ritchie", "Kai Wang", "Yu-an Lin"],
+		"venue": "CVPR 2019",
+		"date": "2019-06-16",
+		"links" : [
+			{"type": "link", "name": "arXiv", "target": "https://arxiv.org/abs/1811.12463"}
+		]
+	},
+
+{
+	"id": "deepsynth",
+	"title": "Deep Convolutional Priors for Indoor Scene Synthesis",
+	"authors": ["Kai Wang", "Manolis Savva", "Angel X. Chang", "Daniel Ritchie"],
+	"venue": "SIGGRAPH 2018",
+	"date": "2018-08-01",
+	"links" : [
+		{"type": "pdf"},
+		{"type": "link", "name": "code", "target": "https://github.com/brownvc/deep-synth"}
+	]
+}
+]

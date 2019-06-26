@@ -17,7 +17,7 @@
 		"venue": "CVPR 2019",
 		"date": "2019-06-16",
 		"links" : [
-			{"type": "link", "name": "pdf", "target": "http://openaccess.thecvf.com/content_CVPR_2019/papers/Ritchie_Fast_and_Flexible_Indoor_Scene_Synthesis_via_Deep_Convolutional_Generative_CVPR_2019_paper.pdf"}
+			{"type": "link", "name": "pdf", "target": "http://openaccess.thecvf.com/content_CVPR_2019/papers/Ritchie_Fast_and_Flexible_Indoor_Scene_Synthesis_via_Deep_Convolutional_Generative_CVPR_2019_paper.pdf"},
 			{"type": "link", "name": "code", "target": "https://github.com/brownvc/fast-synth"}
 		],
                 "equalcontrib": true

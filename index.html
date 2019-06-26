@@ -76,6 +76,9 @@ layout: default
 							{{ author }}{% if forloop.last == false %}{% unless forloop.length == 2 %}, {% endunless %}{% endif %}
 						{% endif %}
 					{% endfor %}
+                                        {% if pub.equalcontrib %}
+                                         *(Equal Contribution)
+                                        {% endif %}
 				</div>
 
 

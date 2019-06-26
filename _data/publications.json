@@ -13,7 +13,7 @@
 	{
 		"id": "fastsynth",
 		"title": "Fast and Flexible Indoor Scene Synthesis via Deep Convolutional Generative Models",
-		"authors": ["Daniel Ritchie", "Kai Wang", "Yu-an Lin"],
+		"authors": ["Daniel Ritchie*", "Kai Wang*", "Yu-an Lin"],
 		"venue": "CVPR 2019",
 		"date": "2019-06-16",
 		"links" : [

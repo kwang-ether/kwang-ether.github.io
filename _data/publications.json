@@ -6,7 +6,7 @@
 		"venue": "SIGGRAPH 2019",
 		"date": "2019-07-31",
 		"links" : [
-		        {"type": "pdf"}
+		        {"type": "pdf"},
 			{"type": "link", "name": "code", "target": "https://github.com/brownvc/planit"}
 		]
 	},
